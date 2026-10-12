@@ -1,0 +1,13 @@
+.agent/
+.agents/
+.claude/
+.codex/
+.continue/
+.cursor/
+.gemini/
+.opencode/
+.pi/
+.roo/
+.windsurf/
+apps/mobile/.claude/
+tools/oxlint/anti-slop/
